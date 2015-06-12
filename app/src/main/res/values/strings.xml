@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memoriat int_ext</string>
+    <string name="esc">Selecciona una de las opciones del menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="memoin">Memoria Interna</string>
+    <string name="memoex">Memoria Externa</string>
+    <string name="title_activity_memoint">Memoint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_memoext">Memoext</string>
+    <string name="msg">Escribe algo</string>
+    <string name="save">Guardar</string>
+    <string name="open">Abrir</string>
+    <string name="archguar">El archivo se ha Guardado</string>
+    <string name="archcarg">El archivo se ha Cargado</string>
+    <string name="almacno">"El almacenamineto externo no se encuentra disponible"</string>
+
+</resources>

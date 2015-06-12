@@ -1,0 +1,47 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="nataniel.memoriatint_ext.Memoint">
+
+    <TextView
+        android:text="@string/msg"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#336600"
+        android:textSize="20sp"
+        android:id="@+id/archi2" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/save2"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:onClick="onClick"
+            android:text="@string/save" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/open2"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:onClick="onClick"
+            android:text="@string/open" />
+    </LinearLayout>
+
+</LinearLayout>
+

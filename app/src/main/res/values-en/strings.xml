@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internal Memory/External Memory</string>
+    <string name="esc">Select one of the menu options</string>
+    <string name="action_settings">Settings</string>
+    <string name="memoin">Internal Memory</string>
+    <string name="memoex">External Memory</string>
+    <string name="title_activity_memoint">Internal Memory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_memoext">External Memory</string>
+    <string name="msg">Write something</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="archguar">The file has been saved</string>
+    <string name="archcarg">The file is loaded</string>
+    <string name="almacno">The external storage is not available</string>
+</resources>
